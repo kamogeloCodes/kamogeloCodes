@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm kamogelo 👋
 - 🔭 I’m currently working on ...It's a secret lol.
 - 🌱 I’m currently learning ... React.
 - 📫 How to reach me: ...@kamogelo142.
