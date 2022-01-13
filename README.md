@@ -1,6 +1,6 @@
 ### Hi there I'm kamogelo 👋
-- 🔭 I’m currently working on ...It's a secret lol.
-- 🌱 I’m currently learning ... React.
+- 🔭 I’m currently working on ...A daily planner.
+- 🌱 I’m currently learning ... Flutter.
 - 📫 How to reach me: ...@kamogelo142.
 - 😄 Pronouns: ...She/Her.
 <!--
@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...It's a secret lol.
-- 🌱 I’m currently learning ... React.
+- 🔭 I’m currently working on ...A daily planner.
+- 🌱 I’m currently learning ... Flutter.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
